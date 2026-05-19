@@ -2,7 +2,21 @@
 
 Стартер для лабораторной работы: персональный CV → CI/CD → GitHub Pages.
 
-> **TODO студент:** удали этот блок. Заполни README своим — про себя, про CV, и **обязательный раздел "Vibe coding log"** (см. внизу).
+> During my school years, I was a <strong>two-time winner</strong> of the St. Petersburg stage of the All-Russian School Olympiad in Technology. I also participated in the Polytechnic University's summer school in <strong>"Data Analysis in Economics"</strong> and a specialized session at the All-Russian Children's Center "OKEAN." After gaining this experience, I realized I wanted to pursue a career in <strong>AI and fintech</strong>. So, I enrolled in the <strong>"Mathematical Support and Administration of Information Systems"</strong> program at SPbPU, and joined the SPbPU Student Scientific Society — AI track.
+
+ About
+During my school years, I was a two-time winner of the St. Petersburg stage of the All-Russian School Olympiad in Technology. I also participated in the Polytechnic University's summer school in "Data Analysis in Economics" and a specialized session at the All-Russian Children's Center "OKEAN." After gaining this experience, I realized I wanted to pursue a career in AI and fintech. So, I enrolled in the "Mathematical Support and Administration of Information Systems" program at SPbPU, and joined the SPbPU Student Scientific Society — AI track.
+Projects
+Battery Detector with ESP32-S3
+2024 — 2025
+
+Designed and manufactured a plexiglass sorting mechanism using Object Detection on an ESP32-S3 board with a camera module, stepper motor, servo drive, and IR sensor. Classifies batteries vs. non-batteries in real time.
+
+Tic-Tac-Toe AI on 20×20 Grid (5 in a row)
+Spring 2026
+
+C++ implementation of Minimax with α-β pruning and a pattern evaluation table for 5-in-a-row combinations. Includes a full game interface and benchmarks against library algorithms.
+Skills: C / C++; Python; Git; CI / CD; Linux; Object Detection; Minimax / α-β
 
 ## Стек
 
@@ -51,12 +65,11 @@ npm run preview  # посмотреть прод-сборку локально
 
 ## Vibe coding log
 
-- **LLM-ассистент:** _(Claude / Cursor / ChatGPT / v0 / …)_
+- **LLM-ассистент:** Claude
 - **2–3 ключевых промпта:**
-  1. _…_
-  2. _…_
-- **Что правил(а) руками после генерации:** _…_
+  1. *Привет! Я пишу сайт-визитку и хочу сделать в ней что-то нестандартное и красивое. Может добавить анимации и красивый фон или есть другие прикольные фичи?* **Это был единственный промт**
+- **Что правил(а) руками после генерации:** Ничего, всё классно работает
 
 ## Live URL
 
-> **TODO студент:** вставь сюда https://<username>.github.io/<repo>/
+> https://polytechmatobes.github.io/Sarzhe-Vyacheslav/
